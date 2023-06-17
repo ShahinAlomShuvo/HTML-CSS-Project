@@ -1,0 +1,1 @@
+onclick='getElementById("demo").innerHTML = "Hello Js!"'
